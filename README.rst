@@ -1,3 +1,6 @@
+!!! This is the kzyo's line-messaging-api test repository.
+==========================================================
+
 line-bot-sdk-python
 ===================
 
